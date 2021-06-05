@@ -1,0 +1,3 @@
+[submodule "submod/lmk"]
+	path = submod/lmk
+	url = git@github.com:Ramsfield/lmk.git
